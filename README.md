@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on shopee...
 - 📫 How to reach me giavuong.1205@gmail.com
 ```
-cout << "Hello World";
+console.log << "Hello World";
 ```
 
 <!---
